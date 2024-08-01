@@ -11,13 +11,14 @@ node_modules
 !.yarn/unplugged
 
 # dependencies
+
+/logs
 /node_modules
 /.pnp
 .pnp.js
 
 # testing
 /coverage
-
 
 
 # misc
