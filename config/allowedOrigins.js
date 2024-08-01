@@ -7,7 +7,7 @@ const allowedOrigins = [
   process.env.corshost,
   "http://192.168.1.226:3000",
   "http://192.168.1.226:3001",
-  "http://testbase.avsku.net:5001",
+  "http://92.53.111.209:3001",
   'http://127.0.0.1:3000',
   'http://localhost:3000',
   'http://127.0.0.1:3001',

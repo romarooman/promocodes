@@ -77,3 +77,14 @@
 20240731	00:25:15	857152cd-5b8b-4777-b055-910b8bc178a7	GET	http://localhost:3000	/api/codes
 20240731	00:25:17	bb3cc292-2756-4c71-9d2b-3dba5ce8e416	GET	http://localhost:3000	/api/orderslist/qevv9rx5
 20240731	00:25:47	10b71823-41b0-4903-81b6-24ab38cb2835	GET	http://localhost:3000	/logout
+20240801	22:18:32	f00e4d09-8435-4cd8-a3e8-5e68799e1d3a	GET	undefined	/
+20240801	22:18:32	c86a8136-028a-4470-99b9-7470a85104ca	GET	undefined	/static/js/main.4f0c28eb.js
+20240801	22:18:32	165acef4-34da-4f43-a18d-4f7d9cb6f549	GET	undefined	/static/css/main.7694376d.css
+20240801	22:18:32	47948b26-0ba1-4141-ae3a-835adea41551	GET	undefined	/favicon.ico
+20240801	22:18:33	ceb704f9-d0f9-4a94-a9bc-057f3441ecd1	GET	undefined	/manifest.json
+20240801	22:18:33	10bf29ea-7f6c-43c1-af24-968c95524364	GET	undefined	/favicon.ico
+20240801	22:18:33	d752d77b-be46-4b76-a5ce-064d28811093	GET	undefined	/logo192.png
+20240801	22:18:35	20e30287-acc0-4c5d-b3a6-b863ae050de6	GET	undefined	/static/css/main.7694376d.css
+20240801	22:18:35	42e7619d-f5c5-4bdb-96c5-fa4bff47c2cb	GET	undefined	/manifest.json
+20240801	22:18:35	f403079c-f9de-408a-9322-ab9780d8f5e9	GET	undefined	/static/js/main.4f0c28eb.js.map
+20240801	22:18:35	0e2cb5f5-b297-4a77-be5e-a9edc0bf66dd	GET	undefined	/static/css/main.7694376d.css.map
