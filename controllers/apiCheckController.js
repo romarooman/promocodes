@@ -30,10 +30,9 @@ const handleApiCheck = (req, res) => {
           return res.sendStatus(401);
         } else {
           console.log(
-            "callll",
-            `CALL api_check('${
+            `CALL api_check(${
               JSON.parse(JSON.stringify(result[0]))[0][""]["user_ident"]
-            },${api}')`
+            },'${api}')`
           );
           const sqlApi_check = {
             sql: `CALL api_check(${
@@ -49,7 +48,7 @@ const handleApiCheck = (req, res) => {
             } else {
               // console.log(JSON.parse(JSON.stringify(result[0]))[0][""].token_data);
               console.log(
-                "получено доступ api",
+                "получено доступ api",result,
                 JSON.parse(JSON.stringify(result[0]))[0][""]["user_api"]
               );
               if (
